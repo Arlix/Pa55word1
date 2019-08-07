@@ -1,2 +1,3 @@
 # Pa55word1
-CTF scripts &amp; challenges
+
+A dump of (probably terrible) scripts and other useful things for CTF challenges.
