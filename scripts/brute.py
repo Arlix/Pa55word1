@@ -53,7 +53,7 @@ with open(filename) as f:
     mylist = f.read().splitlines()
 
 for word in mylist:
-    if (type == "GET"):
+    if (type == "GET" or type == "get"):
         values = "&" + param + "=" + word
         url_req = url + values
         print("############### Trying: " + url_req + " ###############")
