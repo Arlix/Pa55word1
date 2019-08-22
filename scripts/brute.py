@@ -3,12 +3,12 @@ import urllib.parse
 import argparse
 
 # A quick (and probably terrible) brute force script written by Alex Olsen
-# Usage example: python3 brute.py --url "http://targeturl.com/login.php" --source usernames.txt --type post --param username
-# Make sure you use " " around your URL if you are appending something like "?type=1&this=2" to the end
+# Usage example: python3 brute.py --url http://targeturl.com/login.php --source usernames.txt --post usernames --output size
 
 # This script:
-    # Takes the target url and some other info
+    # Takes the target url
     # Reads a file of inputs line by line to define what data we are going to send
+    # Takes the name of the parameter so it can be posted correctly
     # Throws it all at the server and gives you the output
     # Basically...it's curl, with a for loop...
 
