@@ -1,0 +1,300 @@
+shanghai
+beijing
+karachi
+istanbul
+dhaka
+tokyo
+moscow
+manila
+tianjin
+mumbai (bombay)
+sao paulo
+shenzhen
+guangzhou
+delhi
+wuhan
+lahore
+seoul
+chengdu
+kinshasa
+lima
+jakarta
+cairo
+mexico city
+tehran
+baghdad
+xian
+london
+new york city
+nanjing
+bangalore
+ho chi minh city
+bangkok
+chongquin
+bogota
+lagos
+riyadh
+hong kong
+chennai
+hangzhou
+hyderabad
+rio de janeiro
+zhengzhou
+shenyang
+qingdao
+santiago
+dalian
+singapore
+ahmadabad
+suzhou
+st petersburg
+harbin
+ankara
+khartoum
+yangon
+casablanca
+sydney
+jinan
+melbourne
+changsha
+kolkata
+fuzhou
+surat
+abidjan
+dar es salaam
+shiziahuang
+jeddah
+faisalabad
+nanning
+alexandria
+amman
+los angeles
+kunming
+changchun
+yokohama
+kabul
+berlin
+giza
+urumqi
+wuxi
+busan
+guayaquil
+hanoi
+hyderabad
+addis ababa
+algiers
+kano
+mashhad
+hefei
+changzhou
+taiyuan
+rawalpindi
+tangshan
+madrid
+nairobi
+zibo
+pune
+ibadan
+jaipur
+guiyang
+incheon
+brasilia
+tshwane (pretoria)
+kanpur
+salvador
+buenos aires
+kiev
+rome
+surabaya
+izmir
+lucknow
+basrah
+toronto
+gujranwala
+chicago
+taipei
+quito
+osaka
+xuzhou
+fortaleza
+chittagong
+pyongyang
+bandung
+kaohsiung
+yaounde
+daegu
+taichung
+belo horizonte
+puebla
+douala
+medellin
+nagpur
+cali
+omdurman
+nanchang
+brisbane
+bursa
+tashkent
+houston
+nagoya
+mogadishu
+isfahen
+paris
+accra
+managua
+kowloon
+lanzhou
+baku
+guatamala city
+luanda
+bucharest
+havana
+haiphong
+manaus
+baotou
+multan
+medan
+maracaibo
+barquisimeto
+perth
+jilin
+sapporo
+caracas
+minsk
+maiduguri
+curitiba
+vienna
+port harcourt
+luoyang
+aleppo(halab)
+hamburg
+datong
+tabriz
+kuala lumpur
+budapest
+warsaw
+bhopal
+lusaka
+adana
+pimpri chinchwad
+damascus
+palembang
+sanaa
+montreal
+almaty
+brazzaville
+tijuana
+ecatepec
+patna
+mecca
+vadodara
+conakry
+santa cruz
+recife
+harare
+ludhiana
+irbil
+barcelona
+makassar
+cordoba
+agra
+leon
+philadelphia
+novosibirsk
+phoenix
+semarang
+fukuoka
+valencia
+kobe
+anshan
+porto alegre
+daejon
+phnom penh
+lubumbashi
+benin
+guadalajara
+gwangju
+nashik
+qiqihar
+kyoto
+shiraz
+munich
+goiania
+belem
+san antonio
+kawasaki
+kharkiv
+ekaterinburg
+foshan
+san diego
+rajkot
+milan
+adelaide
+guarulhos
+ciudad juarez
+montevideo
+meerut
+dallas
+kaduna
+copenhagen
+prague
+soweto
+sofia
+maputo
+nizhny novgorod
+kazan
+varanasi
+hiroshima
+indore
+rosario
+samara
+belgrade
+campinas
+ulsan
+zapopan
+chelyabinsk
+omsk
+barranquilla
+dakar
+jodphur
+amritsar
+monterrey
+tripoli
+tbilisi
+rostov on don
+ufa
+allahabad
+nezahualcoyotl
+birmingham
+shubra el kheima
+tunis
+yerevan
+ranchi
+haora
+sendai
+tegucigalpa
+freetown
+perm
+volgograd
+odessa
+mexicali
+seongnam
+port-au-prince
+peshawar
+dnipropetrovsk
+napoli
+santo domingo
+kitakyushu
+johannesburg
+handan
+stockholm
+donetsk
+la paz
+medina
+mosul
+khulna
+benghazi
+durban
+rabat
+capetown
+beirut
