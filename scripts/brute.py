@@ -56,7 +56,7 @@ for word in mylist:
     if (type == "GET" or type == "get"):
         values = "&" + param + "=" + word
         url_req = url + values
-        print("############### Trying: " + url_req + " ###############")
+        print("############### Trying: " + word + " ###############")
         req = urllib.request.Request(url_req)
     else:
         values = "submit=1&" + param + "=" + word
